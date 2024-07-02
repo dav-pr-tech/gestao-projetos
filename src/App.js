@@ -10,8 +10,8 @@ function App() {
       <main>
         <div className="buttons-container">
           <button onClick={() => window.location.href='https://dav-pr-tech.github.io/projeto-tap/'}>Termo de Abertura do Projeto – TAP</button>
-          <button onClick={() => window.location.href='http://example.com'}>Escopo</button>
-          <button onClick={() => window.location.href='http://example.com'}>Checklist</button>
+          <button onClick={() => window.location.href='https://dav-pr-tech.github.io/projeto-escopo/'}>Escopo</button>
+          <button onClick={() => window.location.href='https://dav-pr-tech.github.io/projeto-checklist/'}>Checklist</button>
           <button onClick={() => window.location.href='http://example.com'}>Benefícios-resultados</button>
           <button onClick={() => window.location.href='http://example.com'}>EAP</button>
           {/* Adicione mais botões conforme necessário */}
